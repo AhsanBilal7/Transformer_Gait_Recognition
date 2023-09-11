@@ -9,4 +9,6 @@ Implemented the Transformer Technology on selective classes for Human Gait Recog
 - Please use the embedding layer exact equal to the  sequence length
 - Please make sure to `Query` and `Values`. As these are both required for the Transformer
 
+## Contact
+Feel free to contact me `abilal.bee20seecs@seecs.edu.pk`
 # Happy Learning !  
